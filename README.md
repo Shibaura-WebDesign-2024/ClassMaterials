@@ -8,6 +8,7 @@ Welcome to the Web Design and Programming class. This repository will contain al
 
 ## Class Materials
 In this repository, you will find all the lecture slides for each week.
+- [Week 1: Intro to WWW, Intro to HTML](lectureslides/week1.pdf)
 
 ## Assignments
 We will be using github classrooms to get assignments. Every week you will be provided with a link that lets you access and upload the documents required. All instructions will be provided within the assignment repository.
