@@ -7,7 +7,7 @@ Welcome to the Web Design and Programming class. This repository will contain al
   3. Set you username as [student id] + [nickname], for example: *am21003john*
 
 ## Class Materials
-In this repository, you will find all the lecture slides for each week.
+Inside the lecture slides folder, you will find all the lecture slides for each week.
 - [Week 1: Intro to WWW, Intro to HTML](lectureslides/week1.pdf)
 
 ## Assignments
