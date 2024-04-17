@@ -16,4 +16,4 @@ We will be using github classrooms to get assignments. Every week you will be pr
 <img width="780" alt="Screenshot 2024-04-17 at 18 30 37" src="https://github.com/Shibaura-WebDesign-2024/ClassMaterials/assets/82876331/e460996b-a920-4f70-803f-7f8b81460a0e">
 
 Here is the link for week 1:
-
+- [Exercise 1](https://classroom.github.com/a/gLxG_S83)
