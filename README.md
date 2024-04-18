@@ -11,7 +11,7 @@ Inside the lecture slides folder, you will find all the lecture slides for each 
 - [Week 1: Intro to WWW, Intro to HTML](lectureslides/week1.pdf)
 
 ## Assignments
-We will be using github classrooms to get assignments. Every week you will be provided with a link that lets you access and upload the documents required. All instructions will be provided within the assignment repository.
+We will be using [github classrooms] (https://classroom.github.com/classrooms/166478496-shibaura-webdesign-2024-classroom)to get assignments. Every week you will be provided with a link that lets you access and upload the documents required. All instructions will be provided within the assignment repository.
 
 <img width="780" alt="Screenshot 2024-04-17 at 18 30 37" src="https://github.com/Shibaura-WebDesign-2024/ClassMaterials/assets/82876331/e460996b-a920-4f70-803f-7f8b81460a0e">
 
