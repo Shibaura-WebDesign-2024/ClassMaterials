@@ -17,5 +17,6 @@ We will be using [github classrooms](https://classroom.github.com/classrooms/166
 
 Here is the link for week 1:
 - [Exercise 1](https://classroom.github.com/a/gLxG_S83)
-Here is the link for week 2:
+  
+
 - [Exercise 2] (https://classroom.github.com/a/DEl59OmK)
