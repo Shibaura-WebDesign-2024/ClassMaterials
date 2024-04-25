@@ -8,7 +8,7 @@ Welcome to the Web Design and Programming class. This repository will contain al
 
 ## Class Materials
 Inside the lecture slides folder, you will find all the lecture slides for each week.
-- [Week 1: Intro to WWW, Intro to HTML](lectureslides/week1.pdf)
+
 
 ## Assignments
 We will be using [github classrooms](https://classroom.github.com/classrooms/166478496-shibaura-webdesign-2024-classroom) to get assignments. Every week you will be provided with a link that lets you access and upload the documents required. All instructions will be provided within the assignment repository.
