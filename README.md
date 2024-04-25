@@ -19,7 +19,8 @@ Here is the link for week 1:
 - [Exercise 1](https://classroom.github.com/a/gLxG_S83)
   
 
-- [Exercise 2](https://classroom.github.com/a/DEl59OmK)
+- [Exercise 2](https://classroom.github.com/a/x-LJ4646)
+  
 
 ## Midterm
 You will do the presentation of your midterm project on 30 May 2024. Please find the midterm project instruction [Midterm project.pdf](https://github.com/Shibaura-WebDesign-2024/ClassMaterials/files/15103236/Midterm.project.pdf)
