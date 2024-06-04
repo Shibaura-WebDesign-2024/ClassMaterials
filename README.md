@@ -25,7 +25,7 @@ Here is the link for week 1:
 - [Exercise 3](https://classroom.github.com/a/VJlTdNKv)
 
 
-- [Exercise_4](https://classroom.github.com/a/E2VJEO-D)
+- [Exercise 4](https://classroom.github.com/a/E2VJEO-D)
   
 
 ## Midterm
