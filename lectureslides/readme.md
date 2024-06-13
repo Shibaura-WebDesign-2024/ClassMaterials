@@ -1,9 +1,10 @@
 # Class lecture slides
-[Class 1]
+[Class 1](week1.pdf)
 
-[Class 2]
+[Class 2](week%2.pdf)
 
-[Class 3](lectureslides/Week3 Lecture PDF/2024_class3.pdf)
+[Class 3](lectureslides/Week3%20Lecture%20PDF/2024_class3.pdf) ,
+[Class 3 additional material](lectureslides/Week3%20Lecture%20PDF/2024_class3_fullreference.pdf)
 
 [Class 4]
 
