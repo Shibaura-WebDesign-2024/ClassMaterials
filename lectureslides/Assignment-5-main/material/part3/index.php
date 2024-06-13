@@ -7,7 +7,7 @@
 <body>
   <div class="container mt-5">
     <h3>OOP Form</h3>
-    <form action="part3.php" method="POST">
+    <form action="index.php" method="POST">
       <div class="form-group">
         <label for="name">Name:</label>
         <input type="text" class="form-control" id="name" name="name" value="<?php echo isset($_POST['name']) ? $_POST['name'] : ''; ?>" required>
