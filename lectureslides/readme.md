@@ -3,7 +3,7 @@
 
 [Class 2]
 
-[Class 3]('Week3 Lecture PDF'/2024_class3.pdf)
+[Class 3](lectureslides/Week3 Lecture PDF/2024_class3.pdf)
 
 [Class 4]
 
