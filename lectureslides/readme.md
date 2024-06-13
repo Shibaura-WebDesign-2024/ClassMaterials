@@ -19,7 +19,7 @@
 # Assignment page (for week 7 onwards)
 [Week 7 - Assignment 4 - Basic PHP](lectureslides/Assignment-4)
 
-[Week 8 - Assignment 5 - Advance PHP](lectureslides/week8%lecture/readme.md)
+[Week 8 - Assignment 5 - Advance PHP](lectureslides/week8 lecture)
 
 # Final project explanation
 [Download PDF](finalproject-explanation.pdf)
