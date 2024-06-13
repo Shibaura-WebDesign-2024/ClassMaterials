@@ -7,7 +7,7 @@
 <body>
   <div class="container mt-5">
     <h3>Error & Exception Handling</h3>
-    <form action="part4.php" method="POST">
+    <form action="index.php" method="POST">
       <div class="form-group">
         <label for="error">Custom Error:</label>
         <input type="text" class="form-control" id="error" name="error" value="<?php echo isset($_POST['error']) ? $_POST['error'] : ''; ?>" required>
