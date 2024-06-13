@@ -16,7 +16,7 @@ Class 6 (Midterm presentation)
 [Class 7 Demo files](lectureslides/Week7%Lecture/demo)
 
 [Class 8](2024_class8_PHP2.pdf)
-[Class 8 Demo files]
+[Class 8 Demo files](lectureslides/codeforexample)
 
 # Assignment page (for week 7 onwards)
 [Week 7 - Assignment 4 - Basic PHP](lectureslides/Assignment-4)
