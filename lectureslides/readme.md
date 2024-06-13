@@ -6,11 +6,11 @@
 [Class 3](lectureslides/Week3%20Lecture%20PDF/2024_class3.pdf) ,
 [Class 3 additional material](lectureslides/Week3%20Lecture%20PDF/2024_class3_fullreference.pdf)
 
-[Class 4]
+Class 4 (We did not have any lecture for this week)
 
-[Class 5]
+Class 5 (COIL)
 
-[Class 6]
+Class 6 (Midterm presentation)
 
 [Class 7](2024_class7_PHP1.pdf)
 
