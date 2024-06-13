@@ -31,5 +31,10 @@ Here is the link for week 1:
 ## Midterm
 You will do the presentation of your midterm project on 30 May 2024. Please find the midterm project instruction [Midterm project.pdf](https://github.com/Shibaura-WebDesign-2024/ClassMaterials/files/15103236/Midterm.project.pdf)
 
+## Final
+Final project will be done in group of 3 members. You can find the final project explanation here [Final project explanation.pdf](lectureslides/finalproject-explanation.pdf)
+
+Please see the member list in Slack channel.
+
 ## Class schedule
 ![image](https://github.com/Shibaura-WebDesign-2024/ClassMaterials/assets/67726086/9302b53a-6b31-41e9-bd90-39459088e116)
