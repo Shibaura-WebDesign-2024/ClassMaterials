@@ -17,7 +17,9 @@
 [Class 8](2024_class8_PHP2.pdf)
 
 # Assignment page (for week 7 onwards)
-[Week 4 - Assignment 4 - Basic PHP](lectureslides/Assignment-4)
+[Week 7 - Assignment 4 - Basic PHP](lectureslides/Assignment-4)
+
+[Week 8 - Assignment 5 - Advance PHP](lectureslides/week8%lecture/readme.md)
 
 # Final project explanation
 [Download PDF](finalproject-explanation.pdf)
