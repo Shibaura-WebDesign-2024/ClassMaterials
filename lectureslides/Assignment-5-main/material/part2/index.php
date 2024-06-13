@@ -7,7 +7,7 @@
 <body>
   <div class="container mt-5">
     <h3>String Manipulation</h3>
-    <form action="part2.php" method="POST">
+    <form action="index.php" method="POST">
       <div class="form-group">
         <label for="inputString">Enter a String:</label>
         <input type="text" class="form-control" id="inputString" name="inputString" value="<?php echo isset($_POST['inputString']) ? $_POST['inputString'] : ''; ?>" required>
