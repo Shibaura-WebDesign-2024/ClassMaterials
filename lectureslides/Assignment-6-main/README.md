@@ -1,4 +1,15 @@
 # Assignment 6 MySQL Fundamentals
+## How to upload your homework?
+
+1. Click on the URL : http://172.21.82.208/wdp/login.php to access the login page. You’re Username and Password will be provided by Slack. Please login with your credentials.
+
+<img width="460" alt="Screenshot 2024-06-04 at 17 22 46" src="https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/166518626/d51a8bb4-4609-46b9-a07e-c144925ce795">
+
+
+2. After logging in, you will be taken to the dashboard. Please create a new folder for each homework part (For example, Assignment4_Part1). Please upload you PHP file inside each respective folder.
+
+![image (1)](https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/167288305/5251e463-71cc-4272-aab7-6ab755817c1e)
+
 # Installation of the database in your university server
 Because we are using the same PHPMyadmin for all users in the university server, there are some
 changes to the SQL script. Please make sure that you follow this part before doing the exercise
