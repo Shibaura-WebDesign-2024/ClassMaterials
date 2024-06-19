@@ -27,7 +27,7 @@ below.
 
 # Part 1: Enhance the Guitar Shop application
 **Change the name of your database**
-1.	Open **part1/model/database.php** in VS Code
+1.	Open **ClassMaterials/lectureslides/Assignment-6-main/part1/model/database.php** in VS Code
 2.	Replace the database name with your database name (```xxxxxx```). 
 3.	Change the value of ```$username``` and ```$password``` to your username and password for SSH
 4.	Save the file
@@ -73,7 +73,7 @@ Check the solution from http://172.21.82.208/gift/class9/sol/part1/
 # Part 2: Use PHP to work with a database
 **Change the name of your database**
 
-1.	Open **part2/model/database.php** in VS Code
+1.	Open **ClassMaterials/lectureslides/Assignment-6-main/part2/model/database.php** in VS Code
 2.	Replace the database name with your database name (```xxxxxx```). 
 3.	Change the value of ```$username``` and ```$password``` to your username and password for SSH
 4.	Save the file
