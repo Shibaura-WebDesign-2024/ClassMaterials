@@ -39,7 +39,7 @@ expression match and extract all occurrences into an array.
 any potential security vulnerabilities.
 Test your code by executing it and ensure that the expected output is displayed.
 You can check how the correct webpage with the solution should look like from
-http://172.21.82.208/gift/class8/solution/part1/index.php
+http://172.21.82.208/gift/class7/solution/part1/index.php
 
 # Part 2
 # String manipulation
@@ -61,7 +61,7 @@ d. Finally, display the results of the string manipulation operations below the 
 
 Test your code by executing it and ensure that the expected output is displayed.
 You can check how the correct webpage with the solution should look like from
-http://172.21.82.208/gift/class8/solution/part2/index.php
+http://172.21.82.208/gift/class7/solution/part2/index.php
 
 # Part 3
 # OOP Form Assignment
@@ -92,7 +92,7 @@ methods.
 
 Test your code by executing it and ensure that the expected output is displayed.
 You can check how the correct webpage with the solution should look like from
-http://172.21.82.208/gift/class8/solution/part3/index.php
+http://172.21.82.208/gift/class7/solution/part3/index.php
 
 # Part 4
 # Error & Exception Handling Assignment
@@ -119,7 +119,7 @@ e. Display the custom error message and custom exception message below the form.
 
 Test your code by executing it and ensure that the expected output is displayed.
 You can check how the correct webpage with the solution should look like from
-http://172.21.82.208/gift/class8/solution/part4/index.php
+http://172.21.82.208/gift/class7/solution/part4/index.php
 
 # Part 5
 # Advanced PHP array
@@ -153,4 +153,4 @@ Test your code by executing it and ensure that the expected output is displayed.
 10.Upload your PHP files in your respective folder :Assignment5_Part5
 
 You can check how the correct webpage with the solution should look like from
-http://172.21.82.208/gift/class8/solution/part5/index.php
+http://172.21.82.208/gift/class7/solution/part5/index.php
