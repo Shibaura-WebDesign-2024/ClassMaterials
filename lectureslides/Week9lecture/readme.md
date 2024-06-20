@@ -1,3 +1,6 @@
+How to access php my admin
+1. http://172.21.82.208/shared/phpMyAdmin/
+
 how to connect mysql campus server.
 1. open your command prompt
 2. type: ssh xxxx@172.21.82.208
