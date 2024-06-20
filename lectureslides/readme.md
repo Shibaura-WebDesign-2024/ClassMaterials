@@ -25,7 +25,7 @@ Class 6 (Midterm presentation)
 
 [Week 8 - Assignment 5 - Advance PHP](lectureslides/Assignment-5-main)
 
-[Week 9 - Assignment 6 - MYSQL Fundamentals](lectureslides/Assignment-6)
+[Week 9 - Assignment 6 - MYSQL Fundamentals](lectureslides/assignment6-new)
 
 # Final project explanation
 [Download PDF](finalproject-explanation.pdf)
