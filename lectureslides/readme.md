@@ -29,5 +29,7 @@ Class 6 (Midterm presentation)
 
 [Week 9 - Assignment 6 - MYSQL Fundamentals](assignment6-new/)
 
+[Week 10 - Assignment 7 - MySQL + PHP integration](Assignment-7/)
+
 # Final project explanation
 [Download PDF](finalproject-explanation.pdf)
