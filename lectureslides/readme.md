@@ -20,7 +20,7 @@ Class 6 (Midterm presentation)
 
 [Class 9](Week9lecture/2024_class9_IntroSQL-v2.pdf)
 
-[Class 10](lectureslides/Week10%Lecture/2024_class10_AdvanceSQL.pdf)
+[Class 10](Week10%Lecture/2024_class10_AdvanceSQL.pdf)
 
 # Assignment page (for week 7 onwards)
 [Week 7 - Assignment 4 - Basic PHP](lectureslides/Assignment-4)
