@@ -21,7 +21,7 @@ Class 6 (Midterm presentation)
 [Class 9](Week9lecture/2024_class9_IntroSQL-v2.pdf)
 
 [Class 10](https://github.com/Shibaura-WebDesign-2024/ClassMaterials/blob/e5552ee5e68f8d8262bdbf5f2d57738f51f25ea2/lectureslides/Week10%20Lecture/2024_class10_AdvanceSQL.pdf)
-[Class 10 Demo files](Week10%20Lecture/material.zip)
+[Class 10 Demo files](https://github.com/Shibaura-WebDesign-2024/ClassMaterials/blob/60a87d4835bca785bcd3112b66a6af793773500d/lectureslides/Week10%20Lecture/material.zip))
 
 # Assignment page (for week 7 onwards)
 [Week 7 - Assignment 4 - Basic PHP](lectureslides/Assignment-4)
