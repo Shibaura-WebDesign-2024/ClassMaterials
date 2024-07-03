@@ -1,0 +1,41 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+label {
+    display: block;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
